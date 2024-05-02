@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5223cae6-e73b-4d1b-bc26-99957ded906c": {
+      "ProjectGuid": "5223cae6-e73b-4d1b-bc26-99957ded906c",
+      "DisplayName": "BlazorServerAuthenticationAndAuthorization",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
